@@ -30,7 +30,7 @@ app.post("/signup",(req,res)=>{
 
     const options = {
     method: 'POST',
-    url: 'https://api.chatengine.io/projects/c1e2a533-00b3-4b30-8a7d-ca214dd5bbb7/people/',
+    url: 'https://api.chatengine.io/projects/b592981a-730c-4896-87e2-804a88fbf6a9/people/',
     headers: {
         'Content-Type': 'multipart/form-data; boundary=---011000010111000001101001',
         accept: 'application/json, text/plain, */*',
